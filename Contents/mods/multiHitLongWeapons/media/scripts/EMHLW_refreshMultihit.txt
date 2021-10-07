@@ -1,0 +1,27 @@
+module Base
+{
+    recipe Refresh Golf Club
+	{
+		Golfclub,
+
+		Result:Golfclub,
+		Time:10.0,
+		Category:Carpentry
+	}
+    recipe Refresh Crowbar
+	{
+		Crowbar,
+
+		Result:Crowbar,
+		Time:10.0,
+		Category:Carpentry
+	}
+    recipe Refresh Katana
+	{
+		Katana,
+
+		Result:Katana,
+		Time:10.0,
+		Category:Carpentry
+	}
+}

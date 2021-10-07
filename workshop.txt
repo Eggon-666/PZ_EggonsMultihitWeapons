@@ -1,0 +1,15 @@
+version=1
+id=2296367496
+title=Eggon's Multi-Hit Long Weapons
+description=Have you ever wondered why some long weapons can hit only one zombie at a time, while some short ones can hit multiple? Wonder no more, just install this mod and you're golden. Make your Crowbars, Katanas and Golf Clubs multihit weapons.
+description=
+description=In order for the multihit feature to get applied you have to have the "multihit" option turned on in your Sandbox settings in the first place. Obviously.
+description=
+description=[b]Existing saves[/b]
+description=Mod will not change already spawned items. In order to update your existing weapons right click on them and choose "Refresh [weapon name]". When you are done with updating and want to get rid of the options appearing in the context menu delete the "EMHLW_refreshMultihit.txt" file from the mod folder. Unfortunatelly it will reappear when there's update to the mod, so you will have to remove it again. Hopefully there will not be many updates.
+description=
+description=If you like this mod, hit the like button and check out my other [url=https://steamcommunity.com/profiles/76561198093590691/myworkshopfiles/?section=items&appid=108600]mods![/url] :)
+description=
+description=[img]https://i.imgur.com/cKVBRWw.gif[/img]
+tags=
+visibility=public
